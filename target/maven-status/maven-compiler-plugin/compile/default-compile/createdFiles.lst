@@ -1,0 +1,13 @@
+com\example\knowledgeplatform\repository\ArticleRepository.class
+com\example\knowledgeplatform\controller\ArticleController.class
+com\example\knowledgeplatform\service\AIService.class
+com\example\knowledgeplatform\config\JwtAuthenticationFilter.class
+com\example\knowledgeplatform\config\SecurityConfig.class
+com\example\knowledgeplatform\service\UserService.class
+com\example\knowledgeplatform\entity\User.class
+com\example\knowledgeplatform\util\JwtUtil.class
+com\example\knowledgeplatform\repository\UserRepository.class
+com\example\knowledgeplatform\controller\AuthController.class
+com\example\knowledgeplatform\entity\Article.class
+com\example\knowledgeplatform\service\ArticleService.class
+com\example\knowledgeplatform\KnowledgePlatformApplication.class

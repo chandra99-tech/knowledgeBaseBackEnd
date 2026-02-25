@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\New folder (2)\backend_java\src\main\java\com\example\knowledgeplatform\controller\AuthController.java
+C:\Users\LENOVO\Desktop\New folder (2)\backend_java\src\main\java\com\example\knowledgeplatform\controller\ArticleController.java
+C:\Users\LENOVO\Desktop\New folder (2)\backend_java\src\main\java\com\example\knowledgeplatform\entity\Article.java
+C:\Users\LENOVO\Desktop\New folder (2)\backend_java\src\main\java\com\example\knowledgeplatform\config\SecurityConfig.java
+C:\Users\LENOVO\Desktop\New folder (2)\backend_java\src\main\java\com\example\knowledgeplatform\entity\User.java
+C:\Users\LENOVO\Desktop\New folder (2)\backend_java\src\main\java\com\example\knowledgeplatform\repository\ArticleRepository.java
+C:\Users\LENOVO\Desktop\New folder (2)\backend_java\src\main\java\com\example\knowledgeplatform\util\JwtUtil.java
+C:\Users\LENOVO\Desktop\New folder (2)\backend_java\src\main\java\com\example\knowledgeplatform\service\ArticleService.java
+C:\Users\LENOVO\Desktop\New folder (2)\backend_java\src\main\java\com\example\knowledgeplatform\service\AIService.java
+C:\Users\LENOVO\Desktop\New folder (2)\backend_java\src\main\java\com\example\knowledgeplatform\KnowledgePlatformApplication.java
+C:\Users\LENOVO\Desktop\New folder (2)\backend_java\src\main\java\com\example\knowledgeplatform\config\JwtAuthenticationFilter.java
+C:\Users\LENOVO\Desktop\New folder (2)\backend_java\src\main\java\com\example\knowledgeplatform\service\UserService.java
+C:\Users\LENOVO\Desktop\New folder (2)\backend_java\src\main\java\com\example\knowledgeplatform\repository\UserRepository.java
