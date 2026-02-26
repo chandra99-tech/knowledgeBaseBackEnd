@@ -1,6 +1,6 @@
 # KnowledgeBase Backend - Spring Boot
 
-A robust, secure, and scalable backend for the Knowledge Sharing Platform, built with Spring Boot and MySQL.
+A robust, secure, and scalable backend for the Knowledge Sharing Platform, built with JAVA Spring Boot and MySQL.
 
 ## 1. Approach
 
@@ -31,7 +31,7 @@ src/main/java/com/example/knowledgeplatform/
 ## 2. AI Usage (Mandatory Section)
 
 ### Tools Used
-- **Antigravity / Gemini**: Primary AI coding assistant for architecture design and debugging.
+- **OpenAI**: Primary for architecture design and debugging.
 
 ### How AI Helped
 - **Code Generation**: Scaffolded initial JPA entities and Spring Boot controller templates. Generated the `JwtAuthenticationFilter` logic for token extraction.
